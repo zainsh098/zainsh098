@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/zainsh098" target="blank"><img src="https://img.shields.io/twitter/follow/zainsh098?logo=twitter&style=for-the-badge" alt="zainsh098" /></a> </p>
 
-- 🌱 I’m currently learning **Android Developemnt**
+- 🌱 I’m currently learning **Flutter **
 
-- 👯 I’m looking to collaborate on **Android Development**
+- 👯 I’m looking to collaborate on **Android Development Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zainsh098](https://github.com/zainsh098)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **zainsh.cs@gmail.com**
 
-- ⚡ Fun fact **Too God for All**
+- ⚡ Fun fact **Too Good for All**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
