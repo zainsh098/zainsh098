@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/zainsh098" target="blank"><img src="https://img.shields.io/twitter/follow/zainsh098?logo=twitter&style=for-the-badge" alt="zainsh098" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter **
+
+- 🌱 I’m currently a  **Flutter Developer**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Android Development Flutter**
 
